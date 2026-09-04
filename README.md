@@ -1,9 +1,5 @@
 # 🎬 YouTube Downloader PRO 5.0 – GUI Edition
 
-Interface gráfica moderna e completa desenvolvida a partir do clássico console **YouTube Downloader PRO 4.7**.
-
-Feita como se uma equipe profissional tivesse trabalhado **2 meses** no projeto: design limpo, fila de downloads com progresso em tempo real, histórico, configurações persistentes, anti-403, suporte a playlists e dezenas de sites via **yt-dlp**.
-
 ---
 
 ## ✨ Recursos
