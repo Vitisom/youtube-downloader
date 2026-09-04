@@ -15,7 +15,6 @@
 | **Legendas** | Opção de baixar e embutir legendas (pt/en) |
 | **Playlists & multi-link** | Cole vários links (um por linha ou separados por vírgula) |
 | **Atualização** | Botão para atualizar o yt-dlp via pip |
-| **Cross-platform** | Windows, Linux e macOS |
 
 ---
 
@@ -96,3 +95,4 @@ Este software é destinado a uso pessoal e educacional. Respeite os direitos aut
 
 Feito com ❤️ a partir do console clássico.  
 Powered by **yt-dlp** + **CustomTkinter**.
+https://github.com/yt-dlp/yt-dlp
