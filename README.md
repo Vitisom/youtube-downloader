@@ -86,9 +86,6 @@ python main.py
 - Preview de informações
 - Totalmente em português
 
-**4.7 (console original)**
-- Fix Node.js local + erro 403 + auto-update + menu de configurações
-
 ---
 
 ## ⚠️ Aviso legal
